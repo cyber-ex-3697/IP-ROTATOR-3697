@@ -45,7 +45,7 @@ IP-ROTATOR-3697 is a lightweight bash script that automatically changes your IP 
 
 ### Step 1: Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/IP-ROTATOR-3697.git
+git clone https://github.com/cyber-ex-3697/IP-ROTATOR-3697
 cd IP-ROTATOR-3697
 
 Step 2: Install Tor (if not installed)
